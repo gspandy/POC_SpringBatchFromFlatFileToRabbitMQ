@@ -1,0 +1,2 @@
+# POC_SpringBatchFromFlatFileToRabbitMQ
+POC_SpringBatchFromFlatFileToRabbitMQ
